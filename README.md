@@ -5,7 +5,7 @@ Data path :
   -contains data bus,registers,couters...
   -Takes inputs which performs operations on registers(load, clear, decrease counter)
   
-Control path :
+Control unit :
   -contsins FSM(Finite State Machine) 
   -generates control signals(load, clear, decrease counter)
   
